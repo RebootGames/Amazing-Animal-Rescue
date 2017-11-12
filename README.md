@@ -2,7 +2,15 @@
 
 ## I. Introduction
 
-This game is a 2D, top down, puzzle solving game in which the player(s) aim is to uncover facts and information that is hidden underneath a row of 'cards'. The player must move these cards and put them in order on a different row in order to reveal the hidden information. The game is being designed and made for ZSL and as such, the information included on and underneath the cards is to do with the greenhouse gas chain for 4 different products (Plastic bottles, Mobile Phones, Beef, and Electronics being left on standby) and the cards themselves are each step of the chain.
+in this game, the player(s) aim is to uncover facts and information that is hidden underneath a row of 'cards'. The player must move these cards and put them in order on a different row in order to reveal the hidden information. The game is being designed and made for ZSL and as such, the information included on and underneath the cards is to do with the greenhouse gas chain for 4 different products (Plastic bottles, Mobile Phones, Beef, and Electronics being left on standby) and the cards themselves are each step of the chain.
+
+## II. Game Objective
+
+The objective/purpose of this game is to teach children aged 11-16 about the steps that go in to making each of the 4 products, and raise awareness about how much greenhouse gas is produced. The game will also tell the player(s) how they can help to reduce the ammount of greenhouse gasses released.
+
+## III. Genre
+
+The game is a 2D, top down, educational puzzle solving game.
 
 ## Included Text
 
