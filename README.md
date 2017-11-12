@@ -12,6 +12,18 @@ The objective/purpose of this game is to teach children aged 11-16 about the ste
 
 The game is a 2D, top down, educational puzzle solving game.
 
+## VI. Features
+
+- 2D Top Down
+- Interactive
+- Educational
+- Web Based
+- Tocuh Screen Support
+
+## V. Platform
+
+The game will be built as a web based app. This means that any device that has a compatable browser installed will be able to play the game. However, as requested by ZSL, the game will be optimised to run on iPad devices for use in their classes.
+
 ## Included Text
 
 This section will detail what text is to be included in the game.
