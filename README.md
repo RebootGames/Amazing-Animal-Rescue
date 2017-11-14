@@ -1,8 +1,8 @@
-# Amazing-Animal-Rescue
+# Amazing Animal Rescue Design Documentation
 
 ## I. Introduction
 
-in this game, the player(s) aim is to uncover facts and information that is hidden underneath a row of 'cards'. The player must move these cards and put them in order on a different row in order to reveal the hidden information. The game is being designed and made for ZSL and as such, the information included on and underneath the cards is to do with the greenhouse gas chain for 4 different products (Plastic bottles, Mobile Phones, Beef, and Electronics being left on standby) and the cards themselves are each step of the chain.
+In this game, the player(s) aim is to uncover facts and information that is hidden underneath a row of 'cards'. The player must move these cards and put them in order on a different row in order to reveal the hidden information. The game is being designed and made for ZSL and as such, the information included on and underneath the cards is to do with the greenhouse gas chain for 4 different products (Plastic bottles, Mobile Phones, Beef, and Electronics being left on standby) and the cards themselves are each step of the chain.
 
 ## II. Game Objective
 
