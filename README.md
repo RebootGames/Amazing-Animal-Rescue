@@ -1,4 +1,4 @@
-# Amazing Animal Rescue Design Documentation
+# Design Documentation
 
 ## I. Introduction
 
